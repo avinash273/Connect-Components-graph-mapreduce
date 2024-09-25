@@ -9,7 +9,7 @@
   <name>CSE6331 Project #3</name>
 
   <properties>
-    <hadoop.version>2.6.0</hadoop.version>
+    <hadoop.version>3.4.0</hadoop.version>
   </properties>
 
   <dependencies>
